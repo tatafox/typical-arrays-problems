@@ -1,4 +1,4 @@
-
+//init
 exports.min = function min (array) {
   return 0;
 }
